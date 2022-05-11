@@ -7,6 +7,7 @@
     "type": "git",
     "url": "https://github.com/sarufarr/monokai-4nil"
   },
+  "publisher": "4nill",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.67.0"
