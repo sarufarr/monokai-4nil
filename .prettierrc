@@ -1,0 +1,47 @@
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "bracketSameLine": false,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "semi": true,
+  "arrowParens": "avoid",
+  "printWidth": 120,
+  "endOfLine": "auto",
+  "jsxSingleQuote": true,
+  "overrides": [
+    {
+      "files": ["*.html"],
+      "options": {
+        "tabWidth": 2
+      }
+    },
+    {
+      "files": ["*.less"],
+      "options": {
+        "tabWidth": 2
+      }
+    },
+    {
+      "files": [".commitlintrc", ".eslintrc", ".lintstagedrc", ".prettierrc", ".stylelintrc"],
+      "options": {
+        "tabWidth": 2,
+        "parser": "json"
+      }
+    },
+    {
+      "files": [
+        "package.json",
+        "tsconfig.alias.json",
+        "tsconfig.eslint.json",
+        "tsconfig.json",
+        "vite.config.ts",
+        "vite.proxy.config.ts"
+      ],
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ]
+}

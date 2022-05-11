@@ -1,0 +1,21 @@
+{
+    "name": "4nill",
+    "displayName": "4nill",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai 4nill",
+                "uiTheme": "vs",
+                "path": "./themes/Monokai 4nill-color-theme.json"
+            }
+        ]
+    }
+}
