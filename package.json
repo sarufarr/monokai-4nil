@@ -1,6 +1,6 @@
 {
-  "name": "4nill",
-  "displayName": "4nill",
+  "name": "4nil",
+  "displayName": "4nil",
   "description": "",
   "license": "SEE LICENSE IN LICENSE",
   "repository": {
@@ -18,9 +18,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Monokai 4nill",
+        "label": "Monokai 4nil",
         "uiTheme": "vs",
-        "path": "./themes/Monokai 4nill-color-theme.json"
+        "path": "./themes/Monokai 4nil-color-theme.json"
       }
     ]
   }
